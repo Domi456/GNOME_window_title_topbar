@@ -1,0 +1,10 @@
+.focused-app-box {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.focused-app-name-label {
+    font-weight: bold;
+    font-size: 12px;
+}
+
